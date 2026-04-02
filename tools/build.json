@@ -1,0 +1,6 @@
+{
+    "addonsFolder": "addons",
+    "excludePboSymlinks": [],
+    "noBinarize": [],
+    "outputFolder": "release/@bettir/addons"
+}
